@@ -1,5 +1,5 @@
 # Full-Stack-Development
-Development of both client and server software for businesses wanting to reach customers online.
+This repository contains the development of both client and server software for businesses wanting to reach customers online.
 
 # My Services 
 Discolsure:
