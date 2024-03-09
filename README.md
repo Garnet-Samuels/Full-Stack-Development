@@ -1,4 +1,4 @@
-# Full-Stack-Development
+# Full Stack Development
 This repository contains the development of both client and server software for businesses wanting to reach customers online.
 
 # My Services 
